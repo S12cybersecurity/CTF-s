@@ -62,7 +62,29 @@ I enter to NETLOGON:
 
 Credentials founded for a-whitehat User
 
-Let'g Go to Connect Via evil-winrm:
+Let's Go to Connect Via evil-winrm:
+
+![image](https://user-images.githubusercontent.com/79543461/175770420-5e5f6b5e-cebe-4754-881f-894dc301e2dc.png)
+
+I found User Flag:
+
+![image](https://user-images.githubusercontent.com/79543461/175770537-e11f396e-185f-4fea-8544-69bde1e8c34a.png)
+
+**Secrets Dump**
+
+![image](https://user-images.githubusercontent.com/79543461/175770846-f9a2a665-c565-4444-9cfb-7aa43153f128.png)
+
+I have Admin Hash, Let's Go to the Pass The Hash with Admin Account:
+
+
+Works!!!
+
+**Root Flag**
+
+![image](https://user-images.githubusercontent.com/79543461/175770952-6db39efc-c340-4827-96d1-1b940c748972.png)
+
+Thanks!
+
 
 
 
