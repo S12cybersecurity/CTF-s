@@ -1,5 +1,9 @@
 ## VulnNet: Roasted:
 
+**Video Demo:**
+
+https://www.youtube.com/watch?v=5x76bdWU3q0
+
 ****ENUMERATION****
 
 **NMAP:**
@@ -85,6 +89,7 @@ Works!!!
 
 Thanks!
 
+**Demo:**
 
-
+https://www.youtube.com/watch?v=5x76bdWU3q0
 
