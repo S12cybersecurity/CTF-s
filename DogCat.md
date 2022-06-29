@@ -105,3 +105,22 @@ http://10.10.24.8/?view=php://filter/convert.base64-encode/resource=dog/../../..
 **/etc/passwd**
 
 ![image](https://user-images.githubusercontent.com/79543461/176447685-600e98e5-7d55-4958-9d1e-9e829096cef8.png)
+
+**With /etc/hosts i can see this: Is Docker Container**
+
+![image](https://user-images.githubusercontent.com/79543461/176512462-a642fa4a-6c19-4a5b-b3f9-5c5f3c9fe1bb.png)
+
+**RCE**
+
+It's moment to upload to Remote Code Execution
+
+**With this command:** 
+
+![image](https://user-images.githubusercontent.com/79543461/176519831-2248462a-2123-4e21-9848-949560255509.png)
+
+**I have RCE but it's impossible convert to shell.**
+
+I need upload my php reverse shell.
+
+
+
