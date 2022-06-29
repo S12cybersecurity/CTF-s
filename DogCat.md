@@ -72,3 +72,17 @@ Same with dogs file
 
 ![image](https://user-images.githubusercontent.com/79543461/176396151-bc86b5d4-77ca-42fb-90fc-6c2caf3b8ce7.png)
 
+**FFUF:**
+
+Web App are adding .php extension in all the querys.
+
+![image](https://user-images.githubusercontent.com/79543461/176399811-07d12933-5306-449f-983e-19af0110bf6a.png)
+
+**Tryng Payloads I found the correct Payload**
+
+![image](https://user-images.githubusercontent.com/79543461/176399237-64556068-edc0-4774-94dd-b5acfdc30d49.png)
+
+**Decoded base64 index.php code**
+
+![image](https://user-images.githubusercontent.com/79543461/176399650-b30098b2-02ec-4371-8006-8f9c06107134.png)
+
