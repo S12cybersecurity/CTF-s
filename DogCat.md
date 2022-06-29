@@ -86,3 +86,5 @@ Web App are adding .php extension in all the querys.
 
 ![image](https://user-images.githubusercontent.com/79543461/176399650-b30098b2-02ec-4371-8006-8f9c06107134.png)
 
+**Other FFUF**
+
