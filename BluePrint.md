@@ -1,5 +1,9 @@
 # BluePrint TryHackMe
 
+**DEMO**
+
+https://www.youtube.com/watch?v=xPyHRqLtvKM
+
 **Enumeration**
 
 **NMAP:**
@@ -27,5 +31,9 @@ I use the last exploit:
 **Root.txt**
 
 ![image](https://user-images.githubusercontent.com/79543461/176038434-a08f4630-f568-45e2-bb7a-9d3d98e0b651.png)
+
+Video WriteUP
+
+https://www.youtube.com/watch?v=xPyHRqLtvKM
 
 Thanks!
