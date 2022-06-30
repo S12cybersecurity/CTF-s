@@ -32,3 +32,17 @@ I found 3 Plugins
 
 ![image](https://user-images.githubusercontent.com/79543461/176633315-2578608b-b888-47ed-a658-521272f20bfc.png)
 
+**SearcSploit**
+
+![image](https://user-images.githubusercontent.com/79543461/176638844-884fc173-163f-4f68-9fca-c4abda6e99c6.png)
+
+I see code from python exploit
+
+![image](https://user-images.githubusercontent.com/79543461/176638952-ccca1a88-f72b-4c86-a656-00f521a188dc.png)
+
+I try this payload:
+
+![image](https://user-images.githubusercontent.com/79543461/176639040-a784f606-373f-4f18-b691-b571b7b1bc2e.png)
+
+I have LFI!!!
+
