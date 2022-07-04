@@ -1,5 +1,9 @@
 # DogCat TryHackMe
 
+**VIDEO WRITEUP**
+
+https://youtu.be/wnEVK7xIfcY
+
 **Enumeration**
 
 **Nmap:**
@@ -195,4 +199,9 @@ And Wait...
 
 ![image](https://user-images.githubusercontent.com/79543461/176549617-962ea253-3cbc-4275-8d95-03a063dadbd3.png)
 
+DEMO:
+
+https://youtu.be/wnEVK7xIfcY
+
 Thanks!
+
