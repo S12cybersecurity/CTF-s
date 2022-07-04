@@ -118,4 +118,17 @@ I access to:  http://10.10.11.116/shell.php
 
 ![image](https://user-images.githubusercontent.com/79543461/177179263-e41c28fb-324e-4e7d-926b-8e39c4548d11.png)
 
+**user.txt**
+
+![image](https://user-images.githubusercontent.com/79543461/177180144-1d77396f-ef0f-468b-95cb-6a7bc2c9e3a7.png)
+
+**Docker Container**
+
+![image](https://user-images.githubusercontent.com/79543461/177180507-f5f4daf5-7dd3-46d8-b3ca-80eb00577e6e.png)
+
+Im in docker container but i found a credentials in /var/www/html/config.php
+
+![image](https://user-images.githubusercontent.com/79543461/177180745-2ee9c296-3318-4717-ae22-c97fb8fff416.png)
+
+
 **PRIVESC**
