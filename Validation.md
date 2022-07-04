@@ -118,4 +118,4 @@ I access to:  http://10.10.11.116/shell.php
 
 ![image](https://user-images.githubusercontent.com/79543461/177179263-e41c28fb-324e-4e7d-926b-8e39c4548d11.png)
 
-
+**PRIVESC**
