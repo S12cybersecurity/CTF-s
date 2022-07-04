@@ -130,5 +130,14 @@ Im in docker container but i found a credentials in /var/www/html/config.php
 
 ![image](https://user-images.githubusercontent.com/79543461/177180745-2ee9c296-3318-4717-ae22-c97fb8fff416.png)
 
+**SSH DON'T WORK**
 
-**PRIVESC**
+![image](https://user-images.githubusercontent.com/79543461/177181115-1fc9620d-cb57-48a3-b954-ef3611b19b7d.png)
+
+su root its working
+
+![image](https://user-images.githubusercontent.com/79543461/177182304-06ef859a-1a1e-4191-87cc-2a6e79256819.png)
+
+**DONE :)**
+
+Thanks
