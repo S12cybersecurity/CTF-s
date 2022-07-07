@@ -30,5 +30,9 @@ I copy EIP:
 
 ![image](https://user-images.githubusercontent.com/79543461/177653961-c7d4ef8f-abd0-44e0-be75-c8bc00b08952.png)
 
-msf-pattern_offset -l 1000 -q 41367541
+msf-pattern_offset -l 1000 -q 76413176
+
+![image](https://user-images.githubusercontent.com/79543461/177728070-a400c61b-93fe-45cf-b8da-851c8b1489fa.png)
+
+
 
