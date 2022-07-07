@@ -26,3 +26,5 @@ Offset Discover
 
 ![image](https://user-images.githubusercontent.com/79543461/177731773-026d3fd9-4fad-4564-9ca5-f88615844f3a.png)
 
+Let's put EIP Register with BBBB its same than 42424242 in Hex.
+
