@@ -33,3 +33,41 @@ SecretsDump don't work:
 **GetUsersSPN**
 
 ![image](https://user-images.githubusercontent.com/79543461/178011276-71ebf1fe-9ee0-45c9-bb13-16ba6b854046.png)
+
+This means i can generate a ticket for user hsmith
+
+![image](https://user-images.githubusercontent.com/79543461/178012090-2b39e6e7-8c28-4967-9dd6-3dc63ef05094.png)
+
+But no works
+
+**It's moment to connect to winrm**
+
+![image](https://user-images.githubusercontent.com/79543461/178015837-e4f3ac11-f972-4f01-8745-639262b9eec5.png)
+
+I run WinPEASx64.exe, i recomended this tool, its amazing: https://github.com/carlospolop/PEASS-ng/
+
+I found credentials with WinPEAS.
+
+![image](https://user-images.githubusercontent.com/79543461/178027809-3c8c16c5-5044-41a5-8e19-ae7f520b8e57.png)
+
+Put the real username and the credentials are valid.
+
+![image](https://user-images.githubusercontent.com/79543461/178029545-36c85bd2-c94e-4d61-b00d-6982e05420ab.png)
+
+I use secretsdump:
+
+![image](https://user-images.githubusercontent.com/79543461/178029960-de3c5f48-7c3f-4be3-866f-71f3116cd326.png)
+
+**WORKS!!!**
+
+I try to do Pass the Hash with admin account.
+
+![image](https://user-images.githubusercontent.com/79543461/178030220-d2555101-61d5-46ea-98d1-23435e92e5b9.png)
+
+**PWNED!!**
+
+![image](https://user-images.githubusercontent.com/79543461/178030411-ef9a1287-ae9f-4f3d-9ba6-3605757db265.png)
+
+DONE 
+
+Thanks
