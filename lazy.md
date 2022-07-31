@@ -44,4 +44,23 @@ I'm in Admin account i have SSH id_rsa:
 
 I try to connect with SSH:
 
+![image](https://user-images.githubusercontent.com/79543461/182016999-560c11a4-2784-452a-85cf-87389c4bc4c0.png)
+
+I can execute script named backup with root permisions
+
+I see string from this script and i see cat /etc/shadow
+
+This is Path Hijacking...
+
+cd /tmp
+
+nano cat
+
+![image](https://user-images.githubusercontent.com/79543461/182017810-0daddfc5-52cb-4d7f-9bdb-c46aac590166.png)
+
+![image](https://user-images.githubusercontent.com/79543461/182017832-5ad76730-7fe4-4423-8e6d-9f2e5eed72e4.png)
+
+I execute and i have root shell.
+
+THANKS.
 
