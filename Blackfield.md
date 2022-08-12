@@ -11,6 +11,11 @@
 My own tool: 
 https://github.com/S12cybersecurity/AD-Pentest
 
-SMB and RPC anything:
+I try to get users from this domain with module users
 
-![image](https://user-images.githubusercontent.com/79543461/184365376-e1358370-58ef-4cd2-a4b6-922e9174a8c9.png)
+![image](https://user-images.githubusercontent.com/79543461/184396085-66a596a9-02d5-4e2e-9ba8-d958326c46bb.png)
+
+RPC Blocked but LookUPSID works!!
+
+![image](https://user-images.githubusercontent.com/79543461/184397592-c1d5a7c4-5619-46b2-8094-675608ef8d98.png)
+
