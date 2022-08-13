@@ -113,3 +113,18 @@ I have dumped
 
 I start to download this to my kali machine.
 
+I do strings and i found password:
+
+![image](https://user-images.githubusercontent.com/79543461/184479980-09781c6a-5711-44b2-a063-4df6a3028bde.png)
+
+I have admin Creds!!
+
+PWNED!!
+
+![image](https://user-images.githubusercontent.com/79543461/184480073-6964469c-53d0-4e29-b991-871a8e6eb16e.png)
+
+THANKS!
+
+Video for this in this youtube channel:
+
+https://www.youtube.com/channel/UCmMvgBYm3m53losIj2pE9jA
