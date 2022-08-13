@@ -58,4 +58,35 @@ Perfect, now i put in passwords file and i try other Password Sprying:
 
 PERFECT!! I have credentials!
 
+I try crackmapexec to test winrm to access to victim local machine bur anytthing:
+
+![image](https://user-images.githubusercontent.com/79543461/184478646-743ab519-f723-498d-83cc-ca7677d5f42e.png)
+
+New Resources:
+
+![image](https://user-images.githubusercontent.com/79543461/184478684-cbdfb79f-2192-4f8d-a75e-f24eb1da45f4.png)
+
+I can't access to RPC
+
+But i have Read Permisions in IPC$ share smb resource
+
+I can enumerate users with lookupsid.py from impacket python library
+
+![image](https://user-images.githubusercontent.com/79543461/184478860-8569e32c-59db-4ac9-bf5b-b5638a717ced.png)
+
+I do this regular expresion to save users in users.txt file:
+
+![image](https://user-images.githubusercontent.com/79543461/184478918-736aac75-7937-45f6-b09a-b9bab310d91c.png)
+
+I try other password spying and...
+
+![image](https://user-images.githubusercontent.com/79543461/184478943-83a7a661-11dd-49c2-98d9-bf2e4126f8c8.png)
+
+I have credentials to Chase user:
+
+![image](https://user-images.githubusercontent.com/79543461/184478974-96c54d98-4964-4cdd-80e2-88b7d0738215.png)
+
+I can access with evil-winrm to victim machine!
+
+![image](https://user-images.githubusercontent.com/79543461/184479022-e7afeca2-eb30-4695-ac28-b2d53aee42f8.png)
 
