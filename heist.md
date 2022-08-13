@@ -90,3 +90,26 @@ I can access with evil-winrm to victim machine!
 
 ![image](https://user-images.githubusercontent.com/79543461/184479022-e7afeca2-eb30-4695-ac28-b2d53aee42f8.png)
 
+I find this processes for firefox
+
+![image](https://user-images.githubusercontent.com/79543461/184479322-9232d923-39b0-47ac-8152-fa15cae9f8ba.png)
+
+I try to use procdump for 64 bits
+
+I download from here:
+https://docs.microsoft.com/en-us/sysinternals/downloads/procdump
+
+I upload to victim machine
+
+![image](https://user-images.githubusercontent.com/79543461/184479416-c9f9962a-d2f8-43c2-8bf9-4bad1748d133.png)
+
+I search firefox process:
+
+![image](https://user-images.githubusercontent.com/79543461/184479477-7b66042a-1720-4730-b5dc-16ad2caf6dbf.png)
+
+I have dumped 
+
+![image](https://user-images.githubusercontent.com/79543461/184479620-62d18569-9174-4a89-91db-0c6141a858f9.png)
+
+I start to download this to my kali machine.
+
