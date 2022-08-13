@@ -37,3 +37,25 @@ This are the credentials:
 I create users.txt file with hazard (user from forum) admin (file) rout3r (file) 
 
 And i create a passwords.txt witw both cracked passwords
+
+Password Spryng:
+
+![image](https://user-images.githubusercontent.com/79543461/184478405-5ff3168a-6a79-4637-a04a-111c883476d8.png)
+
+0 results...
+
+I go back to Hazard file and i see other hash:
+
+![image](https://user-images.githubusercontent.com/79543461/184478441-a81f4ab1-0c49-47a4-8ced-b53ac8ac5135.png)
+
+I try to crack it:
+
+![image](https://user-images.githubusercontent.com/79543461/184478452-f6a005f3-b7c5-45cc-906e-41381d12b2eb.png)
+
+Perfect, now i put in passwords file and i try other Password Sprying:
+
+![image](https://user-images.githubusercontent.com/79543461/184478572-fa610160-d9b3-4659-8486-15d0c98e6243.png)
+
+PERFECT!! I have credentials!
+
+
